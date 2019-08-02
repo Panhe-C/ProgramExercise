@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148c79b3-7eeb-4a09-a3ad-43fe94f2c646" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/剑指offer编程题/二叉搜索树与双向链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/剑指offer编程题/字符串的排列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/树/几种遍历方式.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/树/前序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/网易2018编程笔试/four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/网易2018编程笔试/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/网易2018编程笔试/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/网易2018编程笔试/two.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题/复杂链表的复制.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题/复杂链表的复制.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,21 +21,67 @@
       <option value="module" />
     </option>
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/字符串的排列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="144">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1243#1251#0" expanded="true" />
-                <element signature="e#1534#1545#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/网易2018编程笔试/one.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/网易2018编程笔试/two.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="46" selection-start-line="46" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/网易2018编程笔试/three.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/网易2018编程笔试/four.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -45,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/复杂链表的复制.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1760">
-              <caret line="80" column="74" lean-forward="true" selection-end-line="101" />
+              <caret line="80" column="74" selection-end-line="101" />
             </state>
           </provider>
         </entry>
@@ -53,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/二叉搜索树与双向链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="29" lean-forward="true" selection-end-line="52" />
+            <state relative-caret-position="638">
+              <caret line="29" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -128,6 +173,9 @@
         <option value="$PROJECT_DIR$/src/剑指offer编程题/复杂链表的复制.java" />
         <option value="$PROJECT_DIR$/src/剑指offer编程题/二叉搜索树与双向链表.java" />
         <option value="$PROJECT_DIR$/src/剑指offer编程题/字符串的排列.java" />
+        <option value="$PROJECT_DIR$/src/网易2018编程笔试/one.java" />
+        <option value="$PROJECT_DIR$/src/网易2018编程笔试/two.java" />
+        <option value="$PROJECT_DIR$/src/网易2018编程笔试/three.java" />
       </list>
     </option>
   </component>
@@ -152,7 +200,6 @@
     </navigator>
     <panes>
       <pane id="CatdeaLogs" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -175,12 +222,6 @@
               <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指offer编程题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -190,10 +231,17 @@
               <item name="树" type="462c0819:PsiDirectoryNode" />
               <item name="几种遍历方式.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="网易2018编程笔试" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,33 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.字符串的排列.test">
-    <configuration name="字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer编程题.字符串的排列" />
-      <module name="ProgramExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer编程题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NULL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.NULL" />
-      <module name="ProgramExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.two.int2String">
     <configuration name="从上往下打印二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="剑指offer编程题.从上往下打印二叉树" />
       <module name="jianzhiOffer" />
@@ -269,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="矩形覆盖_递归循环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer编程题.矩形覆盖_递归循环" />
-      <module name="jianzhiOffer" />
+    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="网易2018编程笔试.one" />
+      <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer编程题.*" />
+          <option name="PATTERN" value="网易2018编程笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java面试宝典.多态.one" />
+    <configuration name="three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="网易2018编程笔试.three" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java面试宝典.多态.*" />
+          <option name="PATTERN" value="网易2018编程笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java面试宝典.多态.test" />
+    <configuration name="two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="网易2018编程笔试.two" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java面试宝典.多态.*" />
+          <option name="PATTERN" value="网易2018编程笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,17 +330,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="字符串的排列.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="two.int2String" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer编程题.*" />
+          <option name="PATTERN" value="网易2018编程笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="剑指offer编程题" />
-      <option name="MAIN_CLASS_NAME" value="剑指offer编程题.字符串的排列" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="网易2018编程笔试" />
+      <option name="MAIN_CLASS_NAME" value="网易2018编程笔试.two" />
+      <option name="METHOD_NAME" value="int2String" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two.simple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgramExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="网易2018编程笔试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="网易2018编程笔试" />
+      <option name="MAIN_CLASS_NAME" value="网易2018编程笔试.two" />
+      <option name="METHOD_NAME" value="simple" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -326,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.字符串的排列.test" />
-        <item itemvalue="Application.字符串的排列" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.one (1)" />
-        <item itemvalue="Application.NULL" />
+        <item itemvalue="JUnit.two.int2String" />
+        <item itemvalue="Application.two" />
+        <item itemvalue="JUnit.two.simple" />
+        <item itemvalue="Application.one" />
+        <item itemvalue="Application.three" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +414,8 @@
       <workItem from="1564494952254" duration="130000" />
       <workItem from="1564581904388" duration="1027000" />
       <workItem from="1564622749715" duration="11741000" />
-      <workItem from="1564665176157" duration="2534000" />
+      <workItem from="1564665176157" duration="3121000" />
+      <workItem from="1564733427918" duration="9621000" />
     </task>
     <task id="LOCAL-00001" summary="第一次尝试提交">
       <created>1564219978400</created>
@@ -417,24 +456,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="二进制中1的个数_位运算_NumberOf1 - 2019.07.14 at 20h 00m 45s.xml">
-      <configuration name="二进制中1的个数_位运算.NumberOf1" configurationId="JUnit" />
+    <history-entry file="two_simple - 2019.08.02 at 20h 00m 09s.xml">
+      <configuration name="two.simple" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="传值与传引用_main1 - 2019.07.25 at 19h 58m 38s.xml">
-      <configuration name="传值与传引用.main1" configurationId="JUnit" />
+    <history-entry file="two_simple - 2019.08.02 at 20h 00m 24s.xml">
+      <configuration name="two.simple" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="传值与传引用_main2 - 2019.07.25 at 20h 04m 05s.xml">
-      <configuration name="传值与传引用.main2" configurationId="JUnit" />
+    <history-entry file="two_simple - 2019.08.02 at 20h 00m 41s.xml">
+      <configuration name="two.simple" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="字符串的排列_test - 2019.08.01 at 21h 57m 23s.xml">
-      <configuration name="字符串的排列.test" configurationId="JUnit" />
+    <history-entry file="two_simple - 2019.08.02 at 20h 01m 49s.xml">
+      <configuration name="two.simple" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="字符串的排列_test - 2019.08.01 at 21h 58m 23s.xml">
-      <configuration name="字符串的排列.test" configurationId="JUnit" />
+    <history-entry file="two_simple - 2019.08.02 at 20h 04m 49s.xml">
+      <configuration name="two.simple" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="two_simple - 2019.08.02 at 20h 05m 07s.xml">
+      <configuration name="two.simple" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="two_simple - 2019.08.02 at 20h 05m 19s.xml">
+      <configuration name="two.simple" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="two_simple - 2019.08.02 at 20h 05m 24s.xml">
+      <configuration name="two.simple" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="two_int2String - 2019.08.02 at 20h 11m 27s.xml">
+      <configuration name="two.int2String" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="two_int2String - 2019.08.02 at 20h 12m 14s.xml">
+      <configuration name="two.int2String" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126124000" />
+    <option name="totallyTimeSpent" value="136332000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,8 +501,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1216" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.108208954" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108208954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,17 +512,18 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34842885" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2310536" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22273567" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2310536" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.961183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928367" weight="0.2672634" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928367" weight="0.26709798" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007163" side_tool="true" weight="0.36828643" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32902032" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -479,7 +535,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108208954" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108208954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,26 +544,27 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34842885" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31792977" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22273567" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2310536" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.961183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928367" weight="0.2672634" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928367" weight="0.26709798" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007163" side_tool="true" weight="0.36828643" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32902032" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -627,36 +684,33 @@
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网易2018编程笔试/three.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网易2018编程笔试/one.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网易2018编程笔试/one.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProgramExercise$two_simple.ic" NAME="two.simple Coverage Results" MODIFIED="1564747309925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>网易2018编程笔试.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/跳台阶_递归和循环.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="e#892#893#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/合并两个排序的链表_11.java" />
-    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/二进制中1的个数_位运算.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/数值的整数次方_代码的完整性.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/调整数组顺序使奇数位于偶数前面_代码完整性.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -1015,28 +1069,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/字符串的排列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/复杂链表的复制.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1760">
-          <caret line="80" column="74" lean-forward="true" selection-end-line="101" />
+          <caret line="80" column="74" selection-end-line="101" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/二叉搜索树与双向链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="29" lean-forward="true" selection-end-line="52" />
+        <state relative-caret-position="638">
+          <caret line="29" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/字符串的排列.java">
+    <entry file="file://$PROJECT_DIR$/src/网易2018编程笔试/four.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/网易2018编程笔试/one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1243#1251#0" expanded="true" />
-            <element signature="e#1534#1545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/网易2018编程笔试/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="46" selection-start-line="46" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/网易2018编程笔试/three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

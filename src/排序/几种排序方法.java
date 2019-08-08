@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class 几种排序方法 {
 
     public static void main(String[] args) {
-        int[] arr = {3,1,5,2,4};
+        int[] arr = {4,5,3,8,4};
 //        arr = bubbleSort(arr);
 //        arr = selectionSort(arr);
 //        arr = insertSort(arr);
@@ -15,7 +15,7 @@ public class 几种排序方法 {
 //        arr = shellSort(arr);
 //        arr = mergeSort(arr);
 
-        arr = quickSort(arr);
+        arr = quickSort(arr,0,arr.length-1);
 
 
 
@@ -235,24 +235,36 @@ public class 几种排序方法 {
     *
     * */
 
-    public static int[] quickSort(int[] array) {
-        if(array.length==1 || array.length==0){return array;}
-        int pivot = array[0];
-        int temp = 0;
-        int index = 0;
-        for (int i = 0; i < array.length; i++) {
-            if (array[i] < pivot) {
-                temp = array[i];
-                index = pivot;
+    public static int[] quickSort(int[] array,int l,int r) {
+            int i = l;
+            int j = r;
+
+            int privot = array[(l+r)/2];
+
+            while (i <= j) {
+                while (array[i] < privot) {
+                    i++;
+                }
+                while (array[j] > privot) {
+                    j--;
+                }
+
+                if(i <= j) {
+                    int temp = array[i];
+                    array[i] = array[j];
+                    array[j] = temp;
+
+                    i++;
+                    j--;
+                }
             }
-        }
 
-        array[index] = pivot;
-        array[0] = temp;
-
-        quickSort(Arrays.copyOfRange(array, 0, index));
-        quickSort(Arrays.copyOfRange(array, index, array.length));
-
-        return array;
+            if(l < j){
+                quickSort(array,l,i);
+            }
+            if(i < r){
+                quickSort(array,i,r);
+            }
+            return array;
     }
 }

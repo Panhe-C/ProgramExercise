@@ -2,51 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148c79b3-7eeb-4a09-a3ad-43fe94f2c646" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/DynamicProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/几种排序方法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/大疆笔试_卢/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/大疆笔试_卢/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/笔试中的问题集中/保留小数点_四舍五入.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/笔试中的问题集中/输入问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/网易2020提前批笔试/five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/网易2020提前批笔试/four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/网易2020提前批笔试/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/网易2020提前批笔试/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/网易2020提前批笔试/three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/网易2020提前批笔试/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/网易2020提前批笔试/第一题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/排序/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/排序/QuickSort2Ways.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/排序/快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/算法经典问题/多重背包.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/four.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/four1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/one.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/three.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/第一题.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/第三题.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/第二题.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/拼多多笔试/第四题.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/网易2018编程笔试/four.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/网易2018编程笔试/one.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/网易2018编程笔试/three.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/网易2018编程笔试/two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/four1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/four1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/one.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/two.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/第一题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/第一题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/第三题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/第三题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/第二题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/第二题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/拼多多笔试/第四题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/拼多多笔试/第四题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网易2018编程笔试/four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/网易2018编程笔试/four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网易2018编程笔试/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/网易2018编程笔试/one.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网易2018编程笔试/three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/网易2018编程笔试/three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/网易2018编程笔试/two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/网易2018编程笔试/two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/排序/几种排序方法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramExercise/排序/几种排序方法.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/笔试/大疆笔试_2019_08_06/one.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramExercise/笔试/大疆笔试_2019_08_06/one.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/笔试/大疆笔试_2019_08_06/three.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramExercise/笔试/大疆笔试_2019_08_06/three.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/排序/几种排序方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/排序/几种排序方法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/one.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,40 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/one.java">
+        <entry file="file://$PROJECT_DIR$/src/排序/几种排序方法.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1408">
-              <caret line="64" lean-forward="true" selection-start-line="3" selection-end-line="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/DynamicProgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1936">
-              <caret line="103" column="33" lean-forward="true" selection-start-line="103" selection-start-column="33" selection-end-line="103" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/two.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="1" lean-forward="true" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/拼多多笔试/第一题.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="32" column="53" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="53" />
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,19 +47,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/three.java">
+        <entry file="file://$PROJECT_DIR$/src/排序/快速排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="439">
+              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/test.java">
+        <entry file="jar://E:/Java/JDK/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="274">
+              <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+              <folding>
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Java/JDK/src.zip!/java/util/DualPivotQuicksort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-86">
+              <caret line="97" column="52" lean-forward="true" selection-start-line="97" selection-start-column="52" selection-end-line="97" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/排序/QuickSort2Ways.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/排序/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="10" column="22" lean-forward="true" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -150,10 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/剑指offer编程题/二叉树的镜像.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer编程题/顺时针打印矩阵.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer编程题/包含min函数的栈.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer编程题/栈的压入_弹出队列.java" />
         <option value="$PROJECT_DIR$/src/剑指offer编程题/从上往下打印二叉树.java" />
         <option value="$PROJECT_DIR$/src/剑指offer编程题/二叉搜索树的后序遍历序列.java" />
         <option value="$PROJECT_DIR$/src/test/iplusplus.java" />
@@ -185,7 +147,6 @@
         <option value="$PROJECT_DIR$/src/网易2018编程笔试/two.java" />
         <option value="$PROJECT_DIR$/src/网易2018编程笔试/three.java" />
         <option value="$PROJECT_DIR$/src/排序/集中排序方法.java" />
-        <option value="$PROJECT_DIR$/src/排序/几种排序方法.java" />
         <option value="$PROJECT_DIR$/src/网易2020提前批笔试/test.java" />
         <option value="$PROJECT_DIR$/src/网易2020提前批笔试/two.java" />
         <option value="$PROJECT_DIR$/src/网易2020提前批笔试/one.java" />
@@ -198,9 +159,14 @@
         <option value="$PROJECT_DIR$/src/笔试/大疆笔试_卢/one.java" />
         <option value="$PROJECT_DIR$/src/test/DynamicProgram.java" />
         <option value="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/test.java" />
-        <option value="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/one.java" />
         <option value="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/two.java" />
         <option value="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/three.java" />
+        <option value="$PROJECT_DIR$/src/算法经典问题/多重背包.java" />
+        <option value="$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/one.java" />
+        <option value="$PROJECT_DIR$/src/排序/QuickSort2Ways.java" />
+        <option value="$PROJECT_DIR$/src/排序/几种排序方法.java" />
+        <option value="$PROJECT_DIR$/src/排序/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/排序/快速排序.java" />
       </list>
     </option>
   </component>
@@ -211,8 +177,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="636" />
-    <option name="y" value="230" />
+    <option name="x" value="-1284" />
     <option name="width" value="974" />
     <option name="height" value="679" />
   </component>
@@ -224,8 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
@@ -237,43 +200,20 @@
             <path>
               <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="笔试" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="笔试" type="462c0819:PsiDirectoryNode" />
-              <item name="大疆笔试_2019_08_06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="笔试" type="462c0819:PsiDirectoryNode" />
-              <item name="拼多多笔试" type="462c0819:PsiDirectoryNode" />
+              <item name="排序" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,7 +225,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/排序" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -296,6 +236,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\学业资料\java\Java项目\ProgramExercise\src\排序" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -309,13 +254,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.three">
-    <configuration name="DynamicProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.DynamicProgram" />
+  <component name="RunManager" selected="Application.快速排序">
+    <configuration name="多重背包" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法经典问题.多重背包" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="算法经典问题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +268,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="保留小数点_四舍五入" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试中的问题集中.保留小数点_四舍五入" />
+    <configuration name="几种排序方法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.几种排序方法" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="笔试中的问题集中.*" />
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.快速排序" />
+      <module name="ProgramExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,32 +307,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.网易2018编程笔试.one" />
-      <module name="ProgramExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="笔试.网易2018编程笔试.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.大疆笔试_卢.one" />
-      <module name="ProgramExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="笔试.大疆笔试_卢.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="笔试.大疆笔试_2019_08_06.three" />
       <module name="ProgramExercise" />
@@ -388,51 +320,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="two (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.大疆笔试_2019_08_06.two" />
-      <module name="ProgramExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="笔试.大疆笔试_2019_08_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="输入问题.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgramExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="笔试中的问题集中.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="笔试中的问题集中" />
-      <option name="MAIN_CLASS_NAME" value="笔试中的问题集中.输入问题" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-Deditable.java.test.console=true" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.one" />
       <item itemvalue="Application.one (1)" />
-      <item itemvalue="Application.DynamicProgram" />
-      <item itemvalue="Application.two (1)" />
       <item itemvalue="Application.three" />
+      <item itemvalue="Application.多重背包" />
+      <item itemvalue="Application.几种排序方法" />
+      <item itemvalue="Application.快速排序" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.three" />
-        <item itemvalue="Application.two (1)" />
+        <item itemvalue="Application.快速排序" />
+        <item itemvalue="Application.几种排序方法" />
         <item itemvalue="Application.one (1)" />
-        <item itemvalue="Application.DynamicProgram" />
-        <item itemvalue="Application.one" />
+        <item itemvalue="Application.多重背包" />
+        <item itemvalue="Application.three" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +384,10 @@
       <workItem from="1564795652547" duration="23917000" />
       <workItem from="1564837507620" duration="2702000" />
       <workItem from="1564884226654" duration="4339000" />
-      <workItem from="1565054583248" duration="18142000" />
+      <workItem from="1565054583248" duration="20237000" />
+      <workItem from="1565143234415" duration="441000" />
+      <workItem from="1565174004670" duration="4194000" />
+      <workItem from="1565270998328" duration="3555000" />
     </task>
     <task id="LOCAL-00001" summary="第一次尝试提交">
       <created>1564219978400</created>
@@ -520,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564294590184</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="debug">
+      <created>1565100869437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565100869437</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -556,7 +467,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190564000" />
+    <option name="totallyTimeSpent" value="200849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -568,10 +479,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1216" extended-state="6" />
+    <frame x="-1448" y="-8" width="1456" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23081024" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28939828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -580,8 +491,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27726433" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.20332718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38107416" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40203327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
@@ -603,7 +514,7 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2308534" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28939828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -612,8 +523,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44220182" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.20332718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38107416" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40203327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
@@ -687,7 +598,8 @@
     <MESSAGE value="修改移位测试" />
     <MESSAGE value="test conflict" />
     <MESSAGE value="pinduoduo" />
-    <option name="LAST_COMMIT_MESSAGE" value="pinduoduo" />
+    <MESSAGE value="debug" />
+    <option name="LAST_COMMIT_MESSAGE" value="debug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -771,16 +683,22 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/排序/几种排序方法.java</url>
-          <line>239</line>
+          <url>file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/three.java</url>
+          <line>62</line>
           <properties />
-          <option name="timeStamp" value="46" />
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/three.java</url>
-          <line>26</line>
+          <line>52</line>
           <properties />
-          <option name="timeStamp" value="51" />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/排序/快速排序.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -794,51 +712,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java面试宝典/Java程序设计基本概念/plusplus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java面试宝典/Java程序设计基本概念/iplusplus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java面试宝典/传递与引用/传值与传引用.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java面试宝典/传递与引用/输入输出流.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/JDK/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6292">
-          <caret line="320" column="26" selection-start-line="320" selection-start-column="26" selection-end-line="320" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/Java/JDK/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2684">
@@ -1018,13 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/JDK/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="3590" column="18" selection-start-line="3590" selection-start-column="18" selection-end-line="3590" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/笔试/网易2020提前批笔试/four.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1040,16 +906,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/笔试问题集中.java" />
-    <entry file="file://$PROJECT_DIR$/src/排序/几种排序方法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5368">
-          <caret line="246" column="13" selection-start-line="246" selection-start-column="13" selection-end-line="246" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/笔试/网易2020提前批笔试/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1165,51 +1021,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/one.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="64" lean-forward="true" selection-start-line="3" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/拼多多笔试/第一题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="32" column="53" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/two.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="484">
+          <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/DynamicProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1936">
-          <caret line="103" column="33" lean-forward="true" selection-start-line="103" selection-start-column="33" selection-end-line="103" selection-end-column="33" />
+        <state relative-caret-position="2266">
+          <caret line="103" column="33" selection-start-line="103" selection-start-column="33" selection-end-line="103" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/拼多多笔试/第一题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="32" column="53" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/three.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="924">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/多重背包.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/大疆笔试_2019_08_06/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序/几种排序方法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="10" column="22" lean-forward="true" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/JDK/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/JDK/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="97" column="52" lean-forward="true" selection-start-line="97" selection-start-column="52" selection-end-line="97" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序/QuickSort2Ways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序/快速排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
         </state>
       </provider>
     </entry>

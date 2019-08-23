@@ -25,7 +25,7 @@ public class BFS {
 
 //        BFirstSearch(graph, "A");
 //        DepthFirstSearch(graph, "A");
-        Map<String,String> path = Distra(graph, "E");
+        Map<String,String> path = path(graph, "E");
 
         String node = "B";
         //计算从节点"B"到输入的起始节点"E"的路径
@@ -43,9 +43,9 @@ public class BFS {
         System.out.println("广度优先遍历：");
 
         Queue<String> queue = new LinkedList<>();
-        queue.offer(startNode);
+        queue.offer(startNode);//尽量用offer代替add
 
-        List<String> list = new ArrayList<>();
+        List<String> list = new ArrayList<>();//存储已经被搜寻过的节点
         list.add(startNode);
 
         while (queue.peek() != null) {//队列不为空
@@ -92,7 +92,7 @@ public class BFS {
     }
 
 
-    public static Map<String,String> Distra(HashMap<String, String[]> graph, String startNode) {
+    public static Map<String,String> path(HashMap<String, String[]> graph, String startNode) {
         System.out.println("搜索最短路径：");
 
         Queue<String> queue = new LinkedList<>();

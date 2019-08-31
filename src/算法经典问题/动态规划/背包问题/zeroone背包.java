@@ -1,6 +1,6 @@
-package 算法经典问题;
+package 算法经典问题.动态规划.背包问题;
 
-public class 多重背包 {
+public class zeroone背包 {
 
     public static void main(String[] args) {
 
@@ -25,13 +25,6 @@ public class 多重背包 {
         int row = weigh.length+1;//行
         int col = capcity+1;//列
         int[][] state = new int[weigh.length+1][capcity+1];
-        for (int i = 0; i < col; i++) {
-            state[0][i] = 0;
-        }
-        for (int i = 0; i < row; i++) {
-            state[i][0]=0;
-        }
-
 
         for (int i = 1; i < row; i++) {
             for (int currentCap = 1; currentCap < col; currentCap++) {
@@ -47,14 +40,6 @@ public class 多重背包 {
                 }
             }
         }
-
         return state[row-1][col-1];
-
-
     }
-
-
-
-
-
 }

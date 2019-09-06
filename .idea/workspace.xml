@@ -2,75 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="148c79b3-7eeb-4a09-a3ad-43fe94f2c646" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/不共享数据/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/不共享数据/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/共享数据/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/共享数据/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java基础原理/设计模式/单例模式/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/String类和常量池.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/两个非常大的数字相加.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/得到数据的类型.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/数组反转.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/数组转集合.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/整数保留符号反转.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/文件输入.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数据结构/栈/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/one_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/第一题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/汇顶笔试_0826/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/汇顶笔试_0826/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/汇顶笔试_0826/three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/汇顶笔试_0826/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/one_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/猿辅导_0824/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/猿辅导_0824/one_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/猿辅导_0824/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/猿辅导_0824/three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/猿辅导_0824/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/贝壳_0823/forth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/顺丰笔试_0829/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/顺丰笔试_0829/newOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/顺丰笔试_0829/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/顺丰笔试_0829/two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/Arrays_CollectionsCommonMethods/ArraysCommonMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/Arrays_CollectionsCommonMethods/CollectionsCommonMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/KnapsackProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/最大子段和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/最长增长子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/楼塔取数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/矩阵取数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/编辑距离.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/背包问题/多重背包.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/背包问题/完全背包.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/背包问题/数组中找出固定和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/背包问题/背包问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/并查集/DisjoinSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/并查集/DisjoinSetSimpler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/数组相关/删除有序数组重复元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/数组相关/有序数组查找重复元素个数_二分查找.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/两个链表的第一个公共节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/二叉搜索树变双向链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/从头到尾打印链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/删除链表中的重复的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/反转链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/合并两个排序的链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/复杂链表的复制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/链表中倒数第K个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法经典问题/链表相关/链表中环的入口节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/三六零_0831/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/三六零_0831/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/三六零_0831/第二题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/作业帮笔试_0905/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/作业帮笔试_0905/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/作业帮笔试_0905/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/作业帮笔试_0905/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小米笔试_0906/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小米笔试_0906/one_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小米笔试_0906/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小米笔试_0906/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小红书笔试_0903/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小红书笔试_0903/t.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小红书笔试_0903/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小红书笔试_0903/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/小红书笔试_0903/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/当当笔试_0902/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/当当笔试_0902/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/当当笔试_0902/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/当当笔试_0902/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/招银笔试_0906/StudentAttendanceRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/招银笔试_0906/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程笔试_0904/Main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程笔试_0904/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程笔试_0904/one_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程笔试_0904/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程笔试_0904/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程笔试_0904/two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/携程笔试_0904/two_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/凑硬币.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/算法经典问题/走迷宫/迷宫最短路径.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/算法经典问题/多重背包.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/算法经典问题/多重背包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/算法经典问题/动态规划/背包问题/zeroone背包.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramExercise/test/数组转集合.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramExercise/test/数组转集合.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,85 +58,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数据结构/哈希表/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/小米笔试_0906/one_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="466">
+              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数据结构/哈希表/HashTableDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/小米笔试_0906/two.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1364">
-              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/算法经典问题/数组相关/有序数组查找重复元素个数_二分查找.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/算法经典问题/数组相关/删除有序数组重复元素.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/两个非常大的数字相加.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/数组转集合.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="47" column="78" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
+            <state relative-caret-position="16">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#523#534#0" expanded="true" />
+                <element signature="e#486#497#0" expanded="true" />
+                <element signature="e#1167#1178#0" expanded="true" />
+                <marker date="1567776011648" expanded="true" signature="1434:3108" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/数据结构/栈/MyStack.java">
+        <entry file="file://$PROJECT_DIR$/src/算法经典问题/动态规划/凑硬币.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="902">
+              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/得到数据的类型.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/two_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/数组反转.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="506">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,10 +104,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/TreeNode.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/two.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="39" column="15" selection-end-line="93" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/小米笔试_0906/one.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="15" column="18" lean-forward="true" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/作业帮笔试_0905/two.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/one.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/one_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -210,40 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/算法经典问题/动态规划/最长增长子序列.java" />
-        <option value="$PROJECT_DIR$/src/算法经典问题/动态规划/最大子段和.java" />
-        <option value="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/test.java" />
-        <option value="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/four.java" />
-        <option value="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/one_1.java" />
-        <option value="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/one.java" />
-        <option value="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/two.java" />
-        <option value="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/第一题.java" />
-        <option value="$PROJECT_DIR$/src/笔试/字节跳动笔试_0825/three.java" />
-        <option value="$PROJECT_DIR$/src/算法经典问题/并查集/DisjoinSet.java" />
-        <option value="$PROJECT_DIR$/src/算法经典问题/并查集/DisjoinSetSimpler.java" />
-        <option value="$PROJECT_DIR$/src/笔试/汇顶笔试_0826/two.java" />
-        <option value="$PROJECT_DIR$/src/笔试/汇顶笔试_0826/three.java" />
-        <option value="$PROJECT_DIR$/src/笔试/汇顶笔试_0826/test.java" />
-        <option value="$PROJECT_DIR$/src/笔试/汇顶笔试_0826/one.java" />
-        <option value="$PROJECT_DIR$/src/算法经典问题/Arrays_CollectionsCommonMethods/ArraysCommonMethod.java" />
-        <option value="$PROJECT_DIR$/src/算法经典问题/Arrays_CollectionsCommonMethods/CollectionsCommonMethod.java" />
-        <option value="$PROJECT_DIR$/src/test/数组反转.java" />
-        <option value="$PROJECT_DIR$/src/test/整数保留符号反转.java" />
-        <option value="$PROJECT_DIR$/src/test/得到数据的类型.java" />
-        <option value="$PROJECT_DIR$/src/test/String类和常量池.java" />
-        <option value="$PROJECT_DIR$/src/test/文件输入.java" />
-        <option value="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/two.java" />
-        <option value="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/test.java" />
-        <option value="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/one.java" />
-        <option value="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/three.java" />
-        <option value="$PROJECT_DIR$/src/笔试/滴滴笔试_0827/one_1.java" />
-        <option value="$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/不共享数据/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/不共享数据/Run.java" />
-        <option value="$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/共享数据/Run.java" />
-        <option value="$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/共享数据/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/Java基础原理/设计模式/单例模式/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/笔试/顺丰笔试_0829/two.java" />
-        <option value="$PROJECT_DIR$/src/笔试/顺丰笔试_0829/UnionFind.java" />
         <option value="$PROJECT_DIR$/src/笔试/顺丰笔试_0829/newOne.java" />
         <option value="$PROJECT_DIR$/src/笔试/顺丰笔试_0829/one.java" />
         <option value="$PROJECT_DIR$/src/算法经典问题/链表相关/ListNode.java" />
@@ -261,6 +207,40 @@
         <option value="$PROJECT_DIR$/src/test/两个非常大的数字相加.java" />
         <option value="$PROJECT_DIR$/src/test/数组转集合.java" />
         <option value="$PROJECT_DIR$/src/数据结构/栈/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/笔试/三六零_0831/one.java" />
+        <option value="$PROJECT_DIR$/src/笔试/三六零_0831/two.java" />
+        <option value="$PROJECT_DIR$/src/笔试/三六零_0831/test.java" />
+        <option value="$PROJECT_DIR$/src/笔试/三六零_0831/第二题.java" />
+        <option value="$PROJECT_DIR$/src/笔试/当当笔试_0902/three.java" />
+        <option value="$PROJECT_DIR$/src/笔试/当当笔试_0902/two.java" />
+        <option value="$PROJECT_DIR$/src/笔试/当当笔试_0902/test.java" />
+        <option value="$PROJECT_DIR$/src/笔试/当当笔试_0902/one.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小红书笔试_0903/one.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小红书笔试_0903/test.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小红书笔试_0903/t.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小红书笔试_0903/two.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小红书笔试_0903/three.java" />
+        <option value="$PROJECT_DIR$/src/算法经典问题/走迷宫/bfs.java" />
+        <option value="$PROJECT_DIR$/src/算法经典问题/走迷宫/迷宫最短路径.java" />
+        <option value="$PROJECT_DIR$/src/笔试/携程笔试_0904/Main.java" />
+        <option value="$PROJECT_DIR$/src/笔试/携程笔试_0904/one_1.java" />
+        <option value="$PROJECT_DIR$/src/笔试/携程笔试_0904/one.java" />
+        <option value="$PROJECT_DIR$/src/笔试/携程笔试_0904/test.java" />
+        <option value="$PROJECT_DIR$/src/笔试/携程笔试_0904/two.java" />
+        <option value="$PROJECT_DIR$/src/笔试/携程笔试_0904/two_2.java" />
+        <option value="$PROJECT_DIR$/src/笔试/携程笔试_0904/three.java" />
+        <option value="$PROJECT_DIR$/src/笔试/作业帮笔试_0905/one.java" />
+        <option value="$PROJECT_DIR$/src/笔试/作业帮笔试_0905/two.java" />
+        <option value="$PROJECT_DIR$/src/笔试/作业帮笔试_0905/three.java" />
+        <option value="$PROJECT_DIR$/src/笔试/作业帮笔试_0905/test.java" />
+        <option value="$PROJECT_DIR$/src/笔试/招银笔试_0906/two.java" />
+        <option value="$PROJECT_DIR$/src/笔试/招银笔试_0906/one.java" />
+        <option value="$PROJECT_DIR$/src/笔试/招银笔试_0906/StudentAttendanceRecord.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小米笔试_0906/one.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小米笔试_0906/test.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小米笔试_0906/one_1.java" />
+        <option value="$PROJECT_DIR$/src/笔试/小米笔试_0906/two.java" />
+        <option value="$PROJECT_DIR$/src/算法经典问题/动态规划/凑硬币.java" />
       </list>
     </option>
   </component>
@@ -271,10 +251,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-355" />
-    <option name="y" value="145" />
-    <option name="width" value="1936" />
-    <option name="height" value="1216" />
+    <option name="x" value="226" />
+    <option name="y" value="527" />
+    <option name="width" value="1452" />
+    <option name="height" value="943" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -284,7 +264,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,37 +282,6 @@
               <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础原理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="栈" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramExercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="算法经典问题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -339,14 +289,13 @@
               <item name="ProgramExercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="算法经典问题" type="462c0819:PsiDirectoryNode" />
-              <item name="数组相关" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,7 +307,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSM综合案例-企业后台管理系统/ssm" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -389,13 +338,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.two">
-    <configuration name="删除有序数组重复元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法经典问题.数组相关.删除有序数组重复元素" />
+  <component name="RunManager" selected="Application.凑硬币">
+    <configuration name="凑硬币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法经典问题.动态规划.凑硬币" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法经典问题.数组相关.*" />
+          <option name="PATTERN" value="算法经典问题.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,12 +352,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="两个非常大的数字相加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.两个非常大的数字相加" />
+    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.小米笔试_0906.one" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="笔试.小米笔试_0906.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,12 +365,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="数组转集合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.数组转集合" />
+    <configuration name="one_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.小米笔试_0906.one_1" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="笔试.小米笔试_0906.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,12 +378,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="newOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.顺丰笔试_0829.newOne" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.小米笔试_0906.test" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="笔试.顺丰笔试_0829.*" />
+          <option name="PATTERN" value="笔试.小米笔试_0906.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -443,11 +392,11 @@
       </method>
     </configuration>
     <configuration name="two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.顺丰笔试_0829.two" />
+      <option name="MAIN_CLASS_NAME" value="笔试.小米笔试_0906.two" />
       <module name="ProgramExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="笔试.顺丰笔试_0829.*" />
+          <option name="PATTERN" value="笔试.小米笔试_0906.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,15 +405,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.one" />
+      <item itemvalue="Application.test" />
       <item itemvalue="Application.two" />
-      <item itemvalue="Application.newOne" />
-      <item itemvalue="Application.删除有序数组重复元素" />
+      <item itemvalue="Application.one_1" />
+      <item itemvalue="Application.凑硬币" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.删除有序数组重复元素" />
-        <item itemvalue="Application.newOne" />
+        <item itemvalue="Application.凑硬币" />
         <item itemvalue="Application.two" />
+        <item itemvalue="Application.one_1" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.one" />
       </list>
     </recent_temporary>
   </component>
@@ -545,7 +498,13 @@
       <workItem from="1566977274242" duration="1588000" />
       <workItem from="1567040206494" duration="5541000" />
       <workItem from="1567130026672" duration="10559000" />
-      <workItem from="1567214555729" duration="582000" />
+      <workItem from="1567214555729" duration="5812000" />
+      <workItem from="1567305021522" duration="597000" />
+      <workItem from="1567411833710" duration="7563000" />
+      <workItem from="1567476771648" duration="11321000" />
+      <workItem from="1567560249814" duration="11450000" />
+      <workItem from="1567653249871" duration="4303000" />
+      <workItem from="1567731583736" duration="9687000" />
     </task>
     <task id="LOCAL-00001" summary="第一次尝试提交">
       <created>1564219978400</created>
@@ -625,7 +584,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="395198000" />
+    <option name="totallyTimeSpent" value="445349000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -637,10 +596,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1216" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43017057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28198293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -649,17 +608,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45268542" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3456562" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2754159" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33493283" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.961183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928367" weight="0.13299233" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928367" weight="0.8724584" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007163" side_tool="true" weight="0.36828643" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32439926" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3234165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -672,7 +631,7 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42560175" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28198293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -681,17 +640,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45268542" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3456562" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2754159" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917467" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33493283" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.961183" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928367" weight="0.13299233" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928367" weight="0.8724584" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007163" side_tool="true" weight="0.36828643" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32439926" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3234165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1067,6 +1026,90 @@
           <properties />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/三六零_0831/two.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/三六零_0831/two.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/当当笔试_0902/one.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/小红书笔试_0903/two.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/小红书笔试_0903/three.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/算法经典问题/走迷宫/迷宫最短路径.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/算法经典问题/走迷宫/迷宫最短路径.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/携程笔试_0904/two_2.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/携程笔试_0904/two_2.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/携程笔试_0904/three.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/携程笔试_0904/three.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/携程笔试_0904/three.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/小米笔试_0906/two.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/小米笔试_0906/two.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/笔试/滴滴笔试_0827/three.java</url>
           <line>5</line>
@@ -1087,313 +1130,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Java/JDK/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="194" selection-start-line="194" selection-end-line="194" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/JDK/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/JDK/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="1011" selection-start-line="1011" selection-end-line="1011" />
-          <folding>
-            <element signature="e#65240#65241#0" expanded="true" />
-            <element signature="e#65287#65288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/JDK/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="1470" selection-start-line="1470" selection-end-line="1470" />
-          <folding>
-            <element signature="e#62860#62861#0" expanded="true" />
-            <element signature="e#62916#62917#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/JDK/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="462" selection-start-line="462" selection-end-line="462" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/JDK/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="132" column="69" lean-forward="true" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/整数保留符号反转.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/String类和常量池.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/文件输入.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/滴滴笔试_0827/one.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="5" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/滴滴笔试_0827/one_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/不共享数据/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/共享数据/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java基础原理/设计模式/单例模式/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/共享数据/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java基础原理/多线程/实例变量与线程安全/不共享数据/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/滴滴笔试_0827/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/拼多多笔试/第一题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/JDK/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/顺丰笔试_0829/UnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/顺丰笔试_0829/newOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/顺丰笔试_0829/two.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" selection-start-line="8" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/并查集/DisjoinSetSimpler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/并查集/DisjoinSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="61" column="5" selection-start-line="16" selection-start-column="8" selection-end-line="61" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/动态规划/最长增长子序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1562">
-          <caret line="71" column="5" selection-start-line="47" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/滴滴笔试_0827/three.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/滴滴笔试_0827/two.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/顺丰笔试_0829/one.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/合并两个排序的链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/链表中环的入口节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/从头到尾打印链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/链表中倒数第K个节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/反转链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/反转链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/复杂链表的复制.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="76" lean-forward="true" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/复杂链表的复制.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/两个链表的第一个公共节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/删除链表中的重复的节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer编程题/二叉树中和某一值的路径.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/二叉搜索树变双向链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/数据结构/哈希表/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/数据结构/哈希表/HashTableDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1364">
@@ -1429,9 +1165,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/数组转集合.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="47" column="78" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数据结构/栈/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/三六零_0831/one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/三六零_0831/three.java" />
+    <entry file="file://$PROJECT_DIR$/src/笔试/三六零_0831/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/笔试/三六零_0831/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/三六零_0831/第二题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="83" selection-start-line="37" selection-start-column="83" selection-end-line="37" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/链表相关/二叉搜索树变双向链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/数组反转.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="264">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1446,20 +1232,300 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/数组转集合.java">
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/动态规划/矩阵取数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="47" column="78" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
+        <state relative-caret-position="88">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/动态规划/楼塔取数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/动态规划/编辑距离.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/JDK/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="95" column="38" lean-forward="true" selection-start-line="95" selection-start-column="38" selection-end-line="95" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/走迷宫/迷宫最短路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2067#2068#0" expanded="true" />
+            <element signature="e#2099#2100#0" expanded="true" />
+            <element signature="e#2134#2135#0" expanded="true" />
+            <element signature="e#2168#2169#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
+            <element signature="e#2229#2230#0" expanded="true" />
+            <element signature="e#2264#2265#0" expanded="true" />
+            <element signature="e#2298#2299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/Main">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="29" lean-forward="true" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/当当笔试_0902/one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" column="44" lean-forward="true" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/数据结构/栈/MyStack.java">
+    <entry file="file://$PROJECT_DIR$/src/笔试/当当笔试_0902/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/当当笔试_0902/three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/当当笔试_0902/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/招银笔试_0906/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小红书笔试_0903/one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小红书笔试_0903/t.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" selection-start-line="5" selection-start-column="8" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小红书笔试_0903/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小红书笔试_0903/three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小红书笔试_0903/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/招银笔试_0906/StudentAttendanceRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小米笔试_0906/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/树/几种遍历方式.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/树/前序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/动态规划/背包问题/完全背包.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/作业帮笔试_0905/one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/作业帮笔试_0905/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/作业帮笔试_0905/three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/作业帮笔试_0905/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/one_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/two_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/携程笔试_0904/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="39" column="15" selection-end-line="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小米笔试_0906/one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="18" lean-forward="true" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小米笔试_0906/one_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/小米笔试_0906/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#523#534#0" expanded="true" />
+            <element signature="e#486#497#0" expanded="true" />
+            <element signature="e#1167#1178#0" expanded="true" />
+            <marker date="1567776011648" expanded="true" signature="1434:3108" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/算法经典问题/动态规划/凑硬币.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
         </state>
       </provider>
     </entry>
